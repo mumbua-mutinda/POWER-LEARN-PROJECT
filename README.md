@@ -1,2 +1,2 @@
 # POWER-LEARN-PROJECT
-PLP repository
+PLP python repository
